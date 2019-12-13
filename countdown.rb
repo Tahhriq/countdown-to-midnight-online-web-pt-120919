@@ -9,3 +9,5 @@ def countdown
     
     puts "HAPPY NEW YEAR!"
 end
+
+sleep(num_secs)
